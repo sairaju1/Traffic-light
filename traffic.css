@@ -1,0 +1,39 @@
+.h1{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    background-color: #86d2f2;
+    margin-top:30px;
+    margin-bottom:30px;
+    font-weight: bold;
+
+}
+.but{
+    background-color: #1f1d41;
+    border-radius: 7px;
+    color: white;
+    width: 70px;
+    height: 40px;
+    margin: 20px;
+    border-width: 0px;
+}
+.bg-container{
+    background-color: #86d2f2;
+    height: 80vh;
+    width: 80vh;
+    padding:30px;
+
+}
+.cir {
+    background-color: #4b5069;
+    border-radius: 100px;
+    height: 45px;
+    width: 45px;
+}
+.para{
+    background-color: #1f1d41;
+    border-radius: 25px;
+    margin-left:50px;
+
+
+}
